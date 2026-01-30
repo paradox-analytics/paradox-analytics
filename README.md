@@ -28,6 +28,18 @@ We transform manual data tasks into automated solutions. Specializing in high-sc
 
 ---
 
+### 💡 Defying Jevons Paradox in the Age of AI
+
+**[Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)** states that as technology increases the efficiency with which a resource is used, the total consumption of that resource increases rather than falls.
+
+In the AI era, code has become cheap. The natural tendency is to consume more of it—creating sprawl, bloat, and unmanageable complexity.
+
+**We defy this.**
+
+At Paradox Analytics, we leverage AI not just to write *more* code, but to engineer *smarter* systems. We focus on **efficiency that actually simplifies**—building autonomous, self-healing architectures that scale value without scaling technical debt.
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -49,3 +61,4 @@ We transform manual data tasks into automated solutions. Specializing in high-sc
 <div align="center">
   <i>"Transforming manual data tasks into automated solutions."</i>
 </div>
+

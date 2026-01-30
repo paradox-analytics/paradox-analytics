@@ -6,7 +6,7 @@
   </a>
   <br/>
   <h3>🚀 Automating Data Operations & Accelerating Growth</h3>
-  <p>Founder of <b>Paradox Analytics</b> | Data Engineering | Web Extraction | Fractional CTO Services</p>
+  <p>Founder of <b>Paradox Analytics</b> | AI Engineering | Data Engineering | Autonomous Web Extraction</p>
 
   <a href="https://paradoxanalytics.com/">
     <img src="https://img.shields.io/badge/Website-paradoxanalytics.com-blue?style=flat-square&logo=google-chrome" alt="Website" />
@@ -23,7 +23,7 @@
 We transform manual data tasks into automated solutions. Specializing in high-scale data engineering and intelligent web extraction.
 
 - 🕷️ **Universal Web Scraper**: Builder of the AI-driven [universal-scraper](https://github.com/paradox-analytics/universal-scraper), capable of extracting structured data from any website using rigorous JSON detection and smart HTML cleaning.
-- 🏗️ **Data Engineering**: Architecting robust pipelines that turn raw chaos into actionable insights.
+- 🏗️ **AI & Data Engineering**: Architecting robust pipelines that turn raw chaos into actionable insights.
 - 🧠 **Fractional CTO**: Providing strategic technical leadership to scale your vision.
 
 ---

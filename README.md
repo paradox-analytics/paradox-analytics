@@ -23,7 +23,7 @@
 We design and build the systems that turn manual work into automated solutions. From high-scale data engineering and intelligent web extraction to full stack development and system architecture.
 
 - **Universal Web Scraper**: Builder of the AI-driven [universal-scraper](https://github.com/paradox-analytics/universal-scraper), capable of extracting structured data from any website using rigorous JSON detection and smart HTML cleaning.
- **Modality Studio**: Builder of the AI-native CRM used for experiences [Modality Studio](https://modalitystudio.com).
+- **Modality Studio**: Builder of the AI-native CRM used for experiences [Modality Studio](https://modalitystudio.com).
 - **AI & Data Engineering**: Architecting robust pipelines that turn raw chaos into actionable insights.
 - **Full Stack System Design & Engineering **: Developing mission-critical infrastucture and systems at scale.
 - **Fractional CTO**: Providing strategic technical leadership to scale your vision.
